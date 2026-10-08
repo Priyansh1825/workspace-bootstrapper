@@ -1,0 +1,151 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "workspace_name": "Antigravity Multi-Project AI Workspace",
+  "version": "1.0.0",
+  "repositories": [
+    {
+      "name": "intelligent_document_analyzer",
+      "local_path": "AI/intelligent_document_analyzer",
+      "git_url": "https://github.com/Priyansh1825/Intelligent-document-analyzer",
+      "branch": "master"
+    },
+    {
+      "name": "smart-shop-accounting",
+      "local_path": "AI/smart-shop-accounting",
+      "git_url": "https://github.com/Priyansh1825/smart-shop-accounting.git",
+      "branch": "main"
+    },
+    {
+      "name": "AI Agent",
+      "local_path": "AI Agent",
+      "git_url": "https://github.com/Priyansh1825/AI-Agent-CLI.git",
+      "branch": "main"
+    },
+    {
+      "name": "AI_DCGAN",
+      "local_path": "AI_DCGAN",
+      "git_url": "https://github.com/Priyansh1825/AI-DCGAN.git",
+      "branch": "main"
+    },
+    {
+      "name": "code-review-ai",
+      "local_path": "CodeReview AI Assistant/code-review-ai",
+      "git_url": "https://github.com/Priyansh1825/code-review-ai.git",
+      "branch": "main"
+    },
+    {
+      "name": "CycleGAN_Project",
+      "local_path": "CycleGAN_Project",
+      "git_url": "https://github.com/Priyansh1825/CycleGAN_Project.git",
+      "branch": "main"
+    },
+    {
+      "name": "Final year project",
+      "local_path": "Final year project",
+      "git_url": "https://github.com/Priyansh1825/MLOps-Tooling.git",
+      "branch": "main"
+    },
+    {
+      "name": "ISKCON",
+      "local_path": "ISKCON",
+      "git_url": "https://github.com/Manav2304/ISKCON.git",
+      "branch": "main"
+    },
+    {
+      "name": "Industrial_MultiCamera_Tracking",
+      "local_path": "Industrial_MultiCamera_Tracking",
+      "git_url": "https://github.com/Priyansh1825/Industrial_MultiCamera_Tracking.git",
+      "branch": "main"
+    },
+    {
+      "name": "JARVIS",
+      "local_path": "JARVIS",
+      "git_url": "https://github.com/Priyansh1825/jarvis-agent.git",
+      "branch": "main"
+    },
+    {
+      "name": "Sign_Language_Translator",
+      "local_path": "Sign_Language_Translator",
+      "git_url": "https://github.com/Priyansh1825/Sign_Language_Translator.git",
+      "branch": "main"
+    },
+    {
+      "name": "Skin disease",
+      "local_path": "Skin disease",
+      "git_url": "https://github.com/Priyansh1825/Skin-Disease-Detector.git",
+      "branch": "main"
+    },
+    {
+      "name": "Tech-Resume-Parser",
+      "local_path": "Tech-Resume-Parser",
+      "git_url": "https://github.com/Priyansh1825/Tech-Resume-Parser.git",
+      "branch": "main"
+    },
+    {
+      "name": "Trading Bot",
+      "local_path": "Trading Bot",
+      "git_url": "https://github.com/Priyansh1825/Trading-Bot.git",
+      "branch": "main"
+    },
+    {
+      "name": "agriculture-disease-detector",
+      "local_path": "agriculture-disease-detector",
+      "git_url": "https://github.com/Priyansh1825/agriculture-disease-detector.git",
+      "branch": "main"
+    },
+    {
+      "name": "amazon_recommender",
+      "local_path": "amazon_recommender",
+      "git_url": "https://github.com/Priyansh1825/amazon_recommender.git",
+      "branch": "main"
+    },
+    {
+      "name": "face-recognition-system",
+      "local_path": "face-recognition-system",
+      "git_url": "https://github.com/Priyansh1825/face-recognition-system.git",
+      "branch": "main"
+    },
+    {
+      "name": "hand-tracked-builder",
+      "local_path": "hand-tracked-builder",
+      "git_url": "https://github.com/Priyansh1825/hand-tracked-builder.git",
+      "branch": "main"
+    },
+    {
+      "name": "predictive-maintenance",
+      "local_path": "predictive-maintenance",
+      "git_url": "https://github.com/Priyansh1825/Predictive-Maintenance.git",
+      "branch": "main"
+    },
+    {
+      "name": "strategic_rl_project",
+      "local_path": "strategic_rl_project",
+      "git_url": "https://github.com/Priyansh1825/strategic_rl_project.git",
+      "branch": "main"
+    },
+    {
+      "name": "study-assistant-app",
+      "local_path": "study-assistant-app",
+      "git_url": "https://github.com/Priyansh1825/study-assistant-app.git",
+      "branch": "main"
+    },
+    {
+      "name": "tactical_physics_engine",
+      "local_path": "tactical_physics_engine",
+      "git_url": "https://github.com/Priyansh1825/tactical_physics_engine.git",
+      "branch": "main"
+    },
+    {
+      "name": "v2x-anomaly-detection",
+      "local_path": "v2x-anomaly-detection",
+      "git_url": "https://github.com/Priyansh1825/v2x-anomaly-detection.git",
+      "branch": "main"
+    },
+    {
+      "name": "workspace-mcp-server",
+      "local_path": "workspace-mcp-server",
+      "git_url": "https://github.com/Priyansh1825/workspace-mcp-server.git",
+      "branch": "main"
+    }
+  ]
+}

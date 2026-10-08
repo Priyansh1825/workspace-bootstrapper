@@ -1,0 +1,32 @@
+# ========================================================
+# Workspace Bootstrapper Git Ignore
+# Keeps all cloned sub-repositories completely independent
+# ========================================================
+
+# 1. Ignore all sub-directories and sub-projects by default
+/*
+
+# 2. Whitelist bootstrap configuration and orchestration files
+!.gitignore
+!repos.json
+!AGENT_SETUP.md
+!AGENTS.md
+!README.md
+!git_all.py
+!git-all.cmd
+!setup_new_laptop.cmd
+!setup_new_laptop.ps1
+
+# 3. Whitelist workspace orchestration metadata directories
+!.vscode/
+!.vscode/**
+!.agents/
+!.agents/**
+
+# 4. OS and temporary files
+desktop.ini
+Thumbs.db
+.DS_Store
+__pycache__/
+*.py[cod]
+*.code-workspace
