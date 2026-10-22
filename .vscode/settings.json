@@ -1,7 +1,6 @@
 {
-  "python.defaultInterpreterPath": "C:\\Users\\priya\\Miniconda3\\python.exe",
   "python.analysis.extraPaths": [
-    "d:\\MY project\\Industrial_MultiCamera_Tracking",
-    "d:\\MY project\\workspace-mcp-server"
+    "d:\\Projects\\Industrial_MultiCamera_Tracking",
+    "d:\\Projects\\workspace-mcp-server"
   ]
 }

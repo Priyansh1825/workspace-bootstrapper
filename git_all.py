@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Multi-Repo Git Manager for D:\\MY project
+Multi-Repo Git Manager for D:\\Projects
 """
 
 import os
@@ -11,7 +11,7 @@ ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 def run_git_manager(command="status"):
     print("\n================================================================")
-    print("              MULTI-REPO GIT MANAGER (D:\\MY project)            ")
+    print("              MULTI-REPO GIT MANAGER (D:\\Projects)              ")
     print("================================================================")
     print(f"Action: git {command} across all sub-projects...\n")
 
@@ -63,7 +63,7 @@ def run_git_manager(command="status"):
             print(f"   [Error: {e}]\n")
 
     print("================================================================")
-    print(f"Scanned {found_repos} active Git repositories in D:\\MY project.\n")
+    print(f"Scanned {found_repos} active Git repositories in D:\\Projects.\n")
 
 if __name__ == "__main__":
     action = " ".join(sys.argv[1:]) if len(sys.argv) > 1 else "status"

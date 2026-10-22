@@ -1,4 +1,4 @@
-# Multi-Project Workspace Memory & Agent Guide (D:\MY project)
+# Multi-Project Workspace Memory & Agent Guide (D:\Projects)
 
 This file is automatically loaded by Antigravity on every session across any machine or laptop. It records the complete architecture, workspace memory, environment setup, and active projects in this directory.
 
@@ -6,11 +6,10 @@ This file is automatically loaded by Antigravity on every session across any mac
 
 ## 💻 Environment & CLI Setup (Portable)
 
-- **Root Directory**: `D:\MY project` (or `<current-drive>:\MY project`)
+- **Root Directory**: `D:\Projects` (or `<current-drive>:\Projects`)
 - **CLI Commands Configured**:
   - `agy` / `antigravity` / `antigravity-ide`: Opens projects, files, and visual diffs.
   - `python git_all.py <command>` or `git-all <command>`: Executes Git commands across all sub-repositories simultaneously.
-- **Setup Script for New Machines**: Run `setup_new_laptop.cmd` or `.\setup_new_laptop.ps1` to automatically install GitHub CLI and set up environment aliases.
 - **GitHub Account**: `Priyansh1825` (HTTPS authentication via `gh auth login`).
 
 ---
@@ -52,6 +51,8 @@ This file is automatically loaded by Antigravity on every session across any mac
 | **`AI/intelligent_document_analyzer`** | `Priyansh1825/Intelligent-document-analyzer` | AI document analyzer (PDF/DOCX) | Python, NLP |
 | **`AI/smart-shop-accounting`** | `Priyansh1825/smart-shop-accounting` | AI-assisted shop billing & accounting | Python, SQLite, Tkinter/Web |
 | **`workspace-mcp-server`** | `Priyansh1825/workspace-mcp-server` | Workspace Intelligence MCP Server | Python, FastMCP, Stdio |
+| **`RootCare_CDR`** | - | Vector & CorelDRAW assets for RootCare Endodontics | CorelDRAW, SVG, PDF, Python |
+| **`tactical-combat-ai`** | `Priyansh1825/tactical-combat-ai` | Real-time Tactical Combat & CQB Decision Copilot | Python, PyTorch, RL, OpenCV, FastAPI |
 
 ---
 
@@ -62,5 +63,3 @@ This file is automatically loaded by Antigravity on every session across any mac
 2. **Batch Operations**:
    - Run `git-all status` to view changes across all 13+ sub-projects.
    - Run `git-all push` or `python git_all.py push` to synchronize all repositories.
-3. **New Machine Bootstrapping**:
-   - When transferring this directory to a new laptop, simply double-click `setup_new_laptop.cmd`.
