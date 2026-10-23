@@ -53,6 +53,7 @@ This file is automatically loaded by Antigravity on every session across any mac
 | **`workspace-mcp-server`** | `Priyansh1825/workspace-mcp-server` | Workspace Intelligence MCP Server | Python, FastMCP, Stdio |
 | **`RootCare_CDR`** | - | Vector & CorelDRAW assets for RootCare Endodontics | CorelDRAW, SVG, PDF, Python |
 | **`tactical-combat-ai`** | `Priyansh1825/tactical-combat-ai` | Real-time Tactical Combat & CQB Decision Copilot | Python, PyTorch, RL, OpenCV, FastAPI |
+| **`person-replacer-ai`** | `Priyansh1825/person-replacer-ai` | Full-body inpainting & subject replacement beside celebrities | Python, OpenCV, dlib, FastAPI, GrabCut |
 
 ---
 
