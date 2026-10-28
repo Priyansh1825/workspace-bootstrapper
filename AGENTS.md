@@ -54,6 +54,7 @@ This file is automatically loaded by Antigravity on every session across any mac
 | **`RootCare_CDR`** | - | Vector & CorelDRAW assets for RootCare Endodontics | CorelDRAW, SVG, PDF, Python |
 | **`tactical-combat-ai`** | `Priyansh1825/tactical-combat-ai` | Real-time Tactical Combat & CQB Decision Copilot | Python, PyTorch, RL, OpenCV, FastAPI |
 | **`person-replacer-ai`** | `Priyansh1825/person-replacer-ai` | Full-body inpainting & subject replacement beside celebrities | Python, OpenCV, dlib, FastAPI, GrabCut |
+| **`LLM`** | `Priyansh1825/LLM` | 100% Offline Custom Transformer Engine & Training Studio | Python, PyTorch, RoPE, GQA, FastAPI, SSE |
 
 ---
 
