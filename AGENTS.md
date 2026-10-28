@@ -55,6 +55,14 @@ This file is automatically loaded by Antigravity on every session across any mac
 | **`tactical-combat-ai`** | `Priyansh1825/tactical-combat-ai` | Real-time Tactical Combat & CQB Decision Copilot | Python, PyTorch, RL, OpenCV, FastAPI |
 | **`person-replacer-ai`** | `Priyansh1825/person-replacer-ai` | Full-body inpainting & subject replacement beside celebrities | Python, OpenCV, dlib, FastAPI, GrabCut |
 | **`LLM`** | `Priyansh1825/LLM` | 100% Offline Custom Transformer Engine & Training Studio | Python, PyTorch, RoPE, GQA, FastAPI, SSE |
+| **Shop-ERP-Desktop** | Priyansh1825/Shop-ERP-Desktop | Offline Desktop Shop ERP: Procurement, Billing, Multi-Godown Stock | Python, SQLite, Desktop GUI |
+
+---
+
+## 🔒 Security Gate Protocol (Shop-ERP-Desktop)
+
+- **Password / PIN**: 3725
+- **Rule**: Whenever any session starts or work is requested on Shop-ERP-Desktop, Antigravity MUST ask the user for the password (3725) and verify it BEFORE reading, executing, or modifying files in this project.
 
 ---
 

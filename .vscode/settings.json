@@ -1,6 +1,18 @@
 {
   "python.analysis.extraPaths": [
     "d:\\Projects\\Industrial_MultiCamera_Tracking",
-    "d:\\Projects\\workspace-mcp-server"
-  ]
+    "d:\\Projects\\workspace-mcp-server",
+    "d:\\Projects\\LLM"
+  ],
+  "editor.fontFamily": "'JetBrains Mono', 'Cascadia Code', Consolas, monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 22,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active"
 }

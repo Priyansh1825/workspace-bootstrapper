@@ -146,6 +146,12 @@
       "local_path": "workspace-mcp-server",
       "git_url": "https://github.com/Priyansh1825/workspace-mcp-server.git",
       "branch": "main"
+    },
+    {
+      "name": "Shop-ERP-Desktop",
+      "local_path": "Shop-ERP-Desktop",
+      "git_url": "https://github.com/Priyansh1825/Shop-ERP-Desktop.git",
+      "branch": "main"
     }
   ]
 }
