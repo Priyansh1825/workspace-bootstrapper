@@ -21,6 +21,7 @@ This file is automatically loaded by Antigravity on every session across any mac
 3. **`computer-vision-tracking`**: OpenCV, YOLOv8, MediaPipe, Multi-camera re-ID, ByteTrack, low-latency video pipelines.
 4. **`pytorch-gan-genai`**: CycleGAN, DCGAN, PyTorch adversarial loss balancing, GPU training stability.
 5. **`quant-trading-rl`**: Technical indicators, Backtesting, Risk management, Gymnasium RL (PPO, DQN, Policy Gradient).
+6. **`reverse-engineer-anything`**: Reverse engineer native binaries, web bundles, Electron apps, and decompilations via REA.
 
 ---
 
@@ -56,6 +57,7 @@ This file is automatically loaded by Antigravity on every session across any mac
 | **`person-replacer-ai`** | `Priyansh1825/person-replacer-ai` | Full-body inpainting & subject replacement beside celebrities | Python, OpenCV, dlib, FastAPI, GrabCut |
 | **`LLM`** | `Priyansh1825/LLM` | 100% Offline Custom Transformer Engine & Training Studio | Python, PyTorch, RoPE, GQA, FastAPI, SSE |
 | **Shop-ERP-Desktop** | Priyansh1825/Shop-ERP-Desktop | Offline Desktop Shop ERP: Procurement, Billing, Multi-Godown Stock | Python, SQLite, Desktop GUI |
+| **`rea`** | `morluto/rea` | Reverse engineer anything: native binaries, apps, runtime behavior | TypeScript, Node.js, MCP |
 
 ---
 
