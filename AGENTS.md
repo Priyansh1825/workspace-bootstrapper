@@ -73,3 +73,13 @@ This file is automatically loaded by Antigravity on every session across any mac
 2. **Batch Operations**:
    - Run `git-all status` to view changes across all 13+ sub-projects.
    - Run `git-all push` or `python git_all.py push` to synchronize all repositories.
+
+
+---
+
+## 🎯 Universal Execution Directives
+
+- **Assumptions First**: List your assumptions first, and stop to ask if anything is unclear. Ask before it starts, not after.
+- **Minimal Code**: Write the minimum, nothing not asked for. If 200 lines could be 50, rewrite them. The 100 lines were always possible.
+- **Surgical Changes**: Only touch the lines this change needs (never delete code you don't understand).
+- **TDD Workflow**: Instead of "fix the bug", say "write a test that reproduces it, then make it pass".
