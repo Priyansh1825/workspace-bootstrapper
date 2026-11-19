@@ -58,6 +58,7 @@ This file is automatically loaded by Antigravity on every session across any mac
 | **`LLM`** | `Priyansh1825/LLM` | 100% Offline Custom Transformer Engine & Training Studio | Python, PyTorch, RoPE, GQA, FastAPI, SSE |
 | **Shop-ERP-Desktop** | `Priyansh1825/Shop-ERP-Desktop` | Offline Desktop Shop ERP (located at `D:\Shop-ERP-Desktop`): Procurement, Billing, Multi-Godown Stock | Python, SQLite/PostgreSQL, Desktop GUI |
 | **`rea`** | `morluto/rea` | Reverse engineer anything: native binaries, apps, runtime behavior | TypeScript, Node.js, MCP |
+| **`venue-simulator-3d`** | `Priyansh1825/venue-simulator-3d` | 3D Venue & Event Digital Twin Simulator (Acoustics, Power, Domes, Seating) | Electron, Three.js, Canvas2D, Node.js |
 
 ---
 
